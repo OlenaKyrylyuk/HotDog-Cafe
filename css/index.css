@@ -39,12 +39,16 @@
     color: black;
     font-weight: bold;
   }
-.headerimg{
-  text-align: right;
-}
-.headerimg a {
-  color:white;
-}
+
+  .headerimg {
+    text-align: right;
+  }
+
+  .headerimg a {
+    color: white;
+    margin-right: 10px;
+  }
+
   .mb-3,
   .my-3 {
     margin-bottom: 0rem!important;
@@ -88,8 +92,6 @@
   .card-title {
     font-size: 24px;
     font-family: 'Open Sans Light', sans-serif;
-
-
   }
 
   .card-text {
